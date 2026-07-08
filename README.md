@@ -1,5 +1,3 @@
-# machine-learning
-
 *These course notes were developed using lectures/material from the ML Specialization from Andrew Ng. The visuals and equations are adopted from the original slides. I simply hope that the notes serve as accompanying study material. Find all my notes for this course in the ML Course Notes repo.*
 
 ---
