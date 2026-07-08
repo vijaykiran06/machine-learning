@@ -1,6 +1,5 @@
-*These course notes were developed using lectures/material from the ML Specialization from Andrew Ng. The visuals and equations are adopted from the original slides. I simply hope that the notes serve as accompanying study material. Find all my notes for this course in the ML Course Notes repo.*
+use the link : https://app.notion.com/p/Course-1-Supervised-Machine-Learning-5a920fec6a2e8271a13481a1eab5c4ca?source=copy_link
 
----
 
 # **Introduction to ML**
 
